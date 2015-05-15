@@ -7,13 +7,13 @@
 	<artifactId>vaadin7-web</artifactId>
 	<packaging>war</packaging>
 	<name>vaadin7-web</name>
-	<version>6.2.0.0.1-SNAPSHOT</version>
+	<version>6.2.3.0.1-SNAPSHOT</version>
 	<properties>
-		<vaadin.version>7.1.11</vaadin.version>
-		<liferay.version>6.2.0-ga1</liferay.version>
+		<vaadin.version>7.4.6</vaadin.version>
+		<liferay.version>6.2.3</liferay.version>
 		<!-- POINT THIS TO YOUR BUNDLE ROOT -->
 		<liferay.bundle.root>/home/sammso/Apps/liferay-developer-studio/liferay-portal-6.2.10.1-ee-ga1</liferay.bundle.root>
-		<liferay.maven.plugin.version>6.2.0-ga1</liferay.maven.plugin.version>
+		<liferay.maven.plugin.version>6.2.2</liferay.maven.plugin.version>
 		<liferay.auto.deploy.dir>${liferay.bundle.root}/deploy</liferay.auto.deploy.dir>
 		<liferay.app.server.deploy.dir>${liferay.bundle.root}/tomcat-7.0.42/webapps</liferay.app.server.deploy.dir>
 		<liferay.app.server.lib.global.dir>${liferay.bundle.root}/tomcat-7.0.42/lib/ext</liferay.app.server.lib.global.dir>
